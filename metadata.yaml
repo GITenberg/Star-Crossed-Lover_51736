@@ -1,0 +1,33 @@
+_repo: Star-Crossed-Lover_51736
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Ritter, Bob
+    gutenberg_agent_id: '46056'
+    url: http://www.gutenberg.org/2009/agents/46056
+creator:
+  author:
+    agent_name: Stuart, William W.
+    gutenberg_agent_id: '33446'
+    url: http://www.gutenberg.org/2009/agents/33446
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2016-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51736'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Husband and wife -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Extraterrestrial beings -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- GITenberg
+title: Star-Crossed Lover
+url: http://www.gutenberg.org/ebooks/51736
